@@ -8,5 +8,5 @@
 - 🎓 Formado em Sistemas de informação pelo UniAnchieta
 - 👨‍💻 Desenvolvedor Front-end
 - 🌎 Empenhado em aprender sobre o mundo do Front-end
-- 🤖 Interessado na área de hardware
+- 🤖 Aficionado pela área de hardware
  
